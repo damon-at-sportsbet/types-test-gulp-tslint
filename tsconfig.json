@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "es5",
+        "lib": ["es6","dom"],
+		"experimentalDecorators": true,
+        "moduleResolution": "node",
+        "outDir": "build",
+        "skipDefaultLibCheck": true,
+        "rootDir": "."
+    },
+    "compileOnSave": false
+}
